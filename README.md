@@ -40,4 +40,4 @@ OPTIONAL:
 
 Katacoda site with more azure location (HK, AU, JP, KR, US, EU): https://katacoda.com/katacodaazure2711/scenarios/test-server-for-dev-only
 
-Main Repository : https://github.com/kmille36/Windows-11-VPS
+Main Repository : https://github.com/star9191/Windows-11-VPS
