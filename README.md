@@ -5,7 +5,7 @@ Here this tutorial using Azure Cloud Shell to create Virtual Machine on Microsof
 
 
 Using Method:
-Open This : https://docs.microsoft.com/vi-vn/learn/modules/monitor-azure-vm-using-diagnostic-data/3-exercise-create-virtual-machine?activate-azure-sandbox=true
+Open This : https://docs.microsoft.com/en/learn/modules/monitor-azure-vm-using-diagnostic-data/3-exercise-create-virtual-machine?activate-azure-sandbox=true
 
 *Click on Activate Sandbox
 
